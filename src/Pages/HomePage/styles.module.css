@@ -1,0 +1,17 @@
+.contWrap {
+  display: flex;
+  justify-content: center;
+}
+.cont {
+  padding: 1.5rem;
+  max-width: 1920px;
+}
+
+.cont h1 {
+  font-weight: bolder;
+  margin: 0.2rem 0rem 0.85rem 0.25rem;
+}
+
+.error{
+  color: red;
+}
